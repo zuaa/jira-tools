@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test2",
+            "request": "launch",
+            "mainClass": "cc.xwolf.url.Test2",
+            "projectName": "git-tools"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test1",
+            "request": "launch",
+            "mainClass": "cc.xwolf.url.Test1",
+            "projectName": "git-tools"
+        }
+    ]
+}
